@@ -10,3 +10,7 @@
 #CSCI 102 - Section E
 #Week 12 Part A
 
+#Used string indexing and then I added the indexed strings together
+#Jordan Nealon
+#CSCI 102 - Section E
+#Week 12 Part A
