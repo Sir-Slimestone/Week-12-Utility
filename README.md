@@ -14,3 +14,8 @@
 #Jordan Nealon
 #CSCI 102 - Section E
 #Week 12 Part A
+
+#Used string indexing, the in keyword, and the find function
+#Jordan Nealon
+#CSCI 102 - Section E
+#Week 12 part A
