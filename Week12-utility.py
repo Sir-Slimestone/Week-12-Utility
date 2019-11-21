@@ -23,4 +23,15 @@ def FindWordCount(listin, string):
             else:
                 find = False
     return count
+def ScoreFinder(players, scores, string):
+    for i in range(len(players)):
+        players[i] = players[i].lower()
+    string = string.lower()
+    if string in players:
+        for i in range(len(players)):
+            if players[i] == string:
+                break
+        print("OUTPUT " + string[0].upper() + string[1:-1] + string[-1] + " got a score of " + str(scores[i]))
+    else:
+        print("OUTPUT player not found")
 
