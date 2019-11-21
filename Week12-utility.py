@@ -34,4 +34,10 @@ def ScoreFinder(players, scores, string):
         print("OUTPUT " + string[0].upper() + string[1:-1] + string[-1] + " got a score of " + str(scores[i]))
     else:
         print("OUTPUT player not found")
+def Union(list1, list2):
+    out = list1
+    for i in list2:
+        if not(i in list1):
+            out.append(i)
+    return out
 
