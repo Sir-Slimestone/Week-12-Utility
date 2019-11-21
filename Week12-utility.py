@@ -40,4 +40,10 @@ def Union(list1, list2):
         if not(i in list1):
             out.append(i)
     return out
+def Intersection(list1, list2):
+    out = []
+    for i in list1:
+        if i in list2:
+            out.append(i)
+    return out
 
