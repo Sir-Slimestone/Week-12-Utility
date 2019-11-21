@@ -34,3 +34,8 @@
 #Jordan Nealon
 #CSCI 102 - Section E
 #Week 12 Part A
+
+#Used a for loop and an in keyword to add values in the 1st list but not in the 2nd to an output list.
+#Jordan Nealon
+#CSCI 102 - Section E
+#Week 12 Part A
