@@ -28,4 +28,9 @@
 #Used the in keyword to check for duplicate values and I added duplicate values only once
 #Jordan Nealon
 #CSCI 102 - Section E
-#Week 12 part A
+#Week 12 Part A
+
+#Used the in keyword to find duplicate values and then I added duplicate values to an output list to return
+#Jordan Nealon
+#CSCI 102 - Section E
+#Week 12 Part A
